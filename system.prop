@@ -200,6 +200,7 @@ persist.vendor.delta_time.enable=true
 # WiFi
 wifi.direct.interface=p2p0
 wifi.interface=wlan0
+net.tethering.noprovisioning=true
 
 #Unsorted
 persist.media.rtsp.syncframe=1
